@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Geometric DL at Mila</title>
+    <link>https://example.com/event/</link>
+      <atom:link href="https://example.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 11:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://example.com/event/</link>
+    </image>
+    
+    <item>
+      <title>Symmetry and Structure in Single and Multi-agent Reinforcement Learning</title>
+      <link>https://example.com/talk/symmetry-and-structure-in-single-and-multi-agent-reinforcement-learning/</link>
+      <pubDate>Thu, 02 Feb 2023 11:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/symmetry-and-structure-in-single-and-multi-agent-reinforcement-learning/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: Elise van der Pol (&lt;a href=&#34;https://www.elisevanderpol.nl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
