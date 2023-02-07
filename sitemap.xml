@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/event/</loc>
+    <loc>https://geometricdl-mtl.github.io/event/</loc>
     <lastmod>2023-02-02T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/talk/symmetry-and-structure-in-single-and-multi-agent-reinforcement-learning/</loc>
+    <loc>https://geometricdl-mtl.github.io/talk/symmetry-and-structure-in-single-and-multi-agent-reinforcement-learning/</loc>
     <lastmod>2023-02-02T11:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>https://geometricdl-mtl.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/organizers/arnab/</loc>
+    <loc>https://geometricdl-mtl.github.io/organizers/arnab/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/organizers/</loc>
+    <loc>https://geometricdl-mtl.github.io/organizers/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/organizers/oumar/</loc>
+    <loc>https://geometricdl-mtl.github.io/organizers/oumar/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/organizers/tara/</loc>
+    <loc>https://geometricdl-mtl.github.io/organizers/tara/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/admin/</loc>
+    <loc>https://geometricdl-mtl.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://geometricdl-mtl.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/publication_types/</loc>
+    <loc>https://geometricdl-mtl.github.io/publication_types/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://geometricdl-mtl.github.io/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

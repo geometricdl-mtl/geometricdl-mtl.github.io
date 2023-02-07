@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Organizers | Geometric DL at Mila</title>
-    <link>https://example.com/organizers/</link>
-      <atom:link href="https://example.com/organizers/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://geometricdl-mtl.github.io/organizers/</link>
+      <atom:link href="https://geometricdl-mtl.github.io/organizers/index.xml" rel="self" type="application/rss+xml" />
     <description>Organizers</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://geometricdl-mtl.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Organizers</title>
-      <link>https://example.com/organizers/</link>
+      <link>https://geometricdl-mtl.github.io/organizers/</link>
     </image>
     
     <item>
       <title>Arnab Mondal</title>
-      <link>https://example.com/organizers/arnab/</link>
+      <link>https://geometricdl-mtl.github.io/organizers/arnab/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/organizers/arnab/</guid>
+      <guid>https://geometricdl-mtl.github.io/organizers/arnab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sékou-Oumar Kaba</title>
-      <link>https://example.com/organizers/oumar/</link>
+      <link>https://geometricdl-mtl.github.io/organizers/oumar/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/organizers/oumar/</guid>
+      <guid>https://geometricdl-mtl.github.io/organizers/oumar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tara Akhnoud-Sadegh</title>
-      <link>https://example.com/organizers/tara/</link>
+      <link>https://geometricdl-mtl.github.io/organizers/tara/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/organizers/tara/</guid>
+      <guid>https://geometricdl-mtl.github.io/organizers/tara/</guid>
       <description></description>
     </item>
     
