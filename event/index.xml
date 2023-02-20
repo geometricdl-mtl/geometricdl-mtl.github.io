@@ -5,12 +5,22 @@
     <link>https://geometricdl-mtl.github.io/event/</link>
       <atom:link href="https://geometricdl-mtl.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Feb 2023 11:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Feb 2023 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geometricdl-mtl.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://geometricdl-mtl.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Pulling back information geometry</title>
+      <link>https://geometricdl-mtl.github.io/talk/pulling-back-information-geometry/</link>
+      <pubDate>Thu, 23 Feb 2023 11:00:00 +0000</pubDate>
+      <guid>https://geometricdl-mtl.github.io/talk/pulling-back-information-geometry/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: Miguel González Duque (&lt;a href=&#34;http://miguelgondu.com/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the speaker&lt;/strong&gt;: &lt;a href=&#34;https://www.miguelgondu.com/about/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Miguel González-Duque&lt;/a&gt; is a Ph.D. student at the IT University of Copenhagen, supervised by &lt;a href=&#34;https://sebastianrisi.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sebastian Risi&lt;/a&gt; and co-supervised by &lt;a href=&#34;http://www2.compute.dtu.dk/~sohau/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Søren Hauberg&lt;/a&gt; (DTU). His work is at the intersection of representation learning, differential geometry and Bayesian optimization, applying these to procedural content generation. During his Ph.D., Miguel did an internship at the Bosch Center for AI, working with &lt;a href=&#34;https://leonelrozo.weebly.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leonel Rozo&lt;/a&gt; on applications of Gaussian Processes on manifold-valued data to robotics.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Symmetry and Structure in Single and Multi-agent Reinforcement Learning</title>
