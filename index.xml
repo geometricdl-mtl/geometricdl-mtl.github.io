@@ -13,6 +13,17 @@
     </image>
     
     <item>
+      <title>A General Program to build Equivariant Steerable CNNs</title>
+      <link>https://geometricdl-mtl.github.io/talk/a-general-program-to-build-equivariant-steerable-cnns/</link>
+      <pubDate>Thu, 09 Mar 2023 11:00:00 +0000</pubDate>
+      <guid>https://geometricdl-mtl.github.io/talk/a-general-program-to-build-equivariant-steerable-cnns/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: Gabriele Cesa (&lt;a href=&#34;http://amlab.science.uva.nl/people/GabrieleCesa/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the speaker&lt;/strong&gt;: Gabriele Cesa is a Research Associate at Qualcomm AI Research, Amsterdam and a Ph.D. student at AMLab, University of Amsterdam, under the supervision of Max Welling. Gabriele&amp;rsquo;s research focuses on augmenting machine learning methods with prior information about the geometry of a problem to achieve improved data efficiency and generalization. A particular emphasis has been given to equivariant neural networks, which can encode our knowledge about the symmetries in the data into the model&amp;rsquo;s architecture. In the last years, Gabriele developed the Python library &amp;ldquo;e2cnn&amp;rdquo; (now &amp;ldquo;escnn&amp;rdquo;), used by many practitioners to implement steerable CNNs.&lt;/p&gt;
+&lt;p&gt;Previously, Gabriele received a Master&amp;rsquo;s degree in Artificial Intelligence at the University of Amsterdam and a Bachelor&amp;rsquo;s degree in Computer Science at the University of Trento.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Pulling back information geometry</title>
       <link>https://geometricdl-mtl.github.io/talk/pulling-back-information-geometry/</link>
       <pubDate>Thu, 23 Feb 2023 11:00:00 +0000</pubDate>
