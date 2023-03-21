@@ -5,12 +5,22 @@
     <link>https://geometricdl-mtl.github.io/event/</link>
       <atom:link href="https://geometricdl-mtl.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 09 Mar 2023 11:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 Mar 2023 11:00:00 +0000</lastBuildDate>
     <image>
       <url>https://geometricdl-mtl.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://geometricdl-mtl.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Weisfeiler and Leman go Machine Learning: Expressivity and Generalization Abilities of GNNs</title>
+      <link>https://geometricdl-mtl.github.io/talk/weisfeiler-and-leman-go-machine-learning-expressivity-and-generalization-abilities-of-gnns/</link>
+      <pubDate>Thu, 23 Mar 2023 11:00:00 +0000</pubDate>
+      <guid>https://geometricdl-mtl.github.io/talk/weisfeiler-and-leman-go-machine-learning-expressivity-and-generalization-abilities-of-gnns/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: Christopher Morris (&lt;a href=&#34;https://chrsmrrs.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Website&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About the speaker&lt;/strong&gt;: Christopher Morris studied computer science at TU Dortmund University, Germany. In 2019, interleaved with a short stint at Stanford University, he finished his Ph.D. studies at the same institution focusing on machine learning for graph and relational data. After that, he spent one year as a postdoctoral fellow at Polytechnique Montréal in the Department of Mathematical and Industrial Engineering, followed by another postdoc stay in the Computer Science Department of McGill University and as a member of Mila – Quebec AI Institute. He joined RWTH Aachen University, Germany, as a tenure-track assistant professor in the Computer Science department in June 2022.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A General Program to build Equivariant Steerable CNNs</title>
